@@ -4,7 +4,7 @@ favicon: /images/favicon.png
 logo:
   # expanded: /images/logo@2x.png
   # collapsed: /images/logo-collapsed@2x.png
-  dark: /images/logo_dark@2x.png
+  dark: ''
 
 flag:
   - name: Chinese
@@ -82,7 +82,7 @@ VideoWeb:
   - name: 555电影
     url: https://www.o8tv.com/
     img: /images/favicon/555movie.ico
-    description: 心目中最强的下载网站
+    description: 全能在线观影网站
 
 AboutMe:
   - name: Jacob-xyb Github
