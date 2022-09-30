@@ -2,8 +2,8 @@ favicon: /images/favicon.png
 # banner: /images/webstack_banner_cn.png
 
 logo:
-  # expanded: /images/logo@2x.png
-  # collapsed: /images/logo-collapsed@2x.png
+  expanded: /images/logo.png
+  collapsed: /images/logo-collapsed.png
   dark: ''
 
 flag:
@@ -46,6 +46,9 @@ menu:
   - name: 影视网站
     icon: fas fa-video
     config: VideoWeb
+  - name: 骇客人生
+    icon: fas fa-video
+    config: Hacker
   - name: 关于本人
     icon: fas fa-blog
     config: AboutMe
@@ -83,6 +86,12 @@ VideoWeb:
     url: https://www.o8tv.com/
     img: /images/favicon/555movie.ico
     description: 全能在线观影网站
+
+Hacker:
+  - name: Ιακώβ-ξυβ
+    url: hacker
+    img: /images/favicon/hacker.jpeg
+    description: Επιδιώξτε την κορυφή της τεχνολογία.
 
 AboutMe:
   - name: Jacob-xyb Github
