@@ -47,7 +47,7 @@ menu:
     icon: fas fa-video
     config: VideoWeb
   - name: 骇客人生
-    icon: fas fa-video
+    icon: fas fa-user-secret
     config: Hacker
   - name: 关于本人
     icon: fas fa-blog
