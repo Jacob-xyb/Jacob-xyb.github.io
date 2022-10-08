@@ -64,6 +64,10 @@ ZoomTable:
     url: http://man.ilovefishc.com/
     img: http://man.ilovefishc.com/favicon.ico
     description: HTML/CSS 速查
+  - name: 菜鸟教程
+    url: https://www.runoob.com/
+    img: https://static.runoob.com/images/favicon.ico
+    description: 学的不仅是技术，更是梦想
 
 devTools:
   - name: SM.MS 图床
