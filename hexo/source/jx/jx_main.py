@@ -1,0 +1,1 @@
+from GameDownload.NintendoSwitch.NintendoSwitchGame import *

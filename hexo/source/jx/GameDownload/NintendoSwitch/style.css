@@ -1,0 +1,30 @@
+html * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div.main {
+    width: 100%;
+    padding: 4px;
+}
+
+table {
+    /* width: 100%; */
+    margin: 0 auto;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 4px 8px;
+}
+
+td {
+    text-indent: 4px;
+}
