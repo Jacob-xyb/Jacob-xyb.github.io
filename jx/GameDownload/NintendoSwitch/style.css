@@ -27,4 +27,12 @@ th {
 
 td {
     text-indent: 4px;
+    line-height: 25px;
+}
+
+td a {
+    color: brown;
+    font-weight: 600;
+    text-decoration: none;
+    padding-right: 4px;
 }
