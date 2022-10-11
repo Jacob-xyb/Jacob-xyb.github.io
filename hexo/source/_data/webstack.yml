@@ -114,7 +114,7 @@ ImageDownload:
     description: 阿里巴巴矢量图标库
   - name: WallpaperMaiden
     url: https://www.wallpapermaiden.com/
-    img: https://www.wallpapermaiden.com/images/favicons/favicon-96x96.png
+    img: /images/favicon/WallpaperMaiden.png
     description: 超高质量免费壁纸下载
 
 FilmDownload:
