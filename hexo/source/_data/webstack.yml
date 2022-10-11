@@ -42,10 +42,28 @@ menu:
     config: devTools
   - name: 下载网站
     icon: fas fa-cloud-download-alt
-    config: Download
+    submenu:
+      - name: 软件下载
+        icon: fab fa-app-store-ios
+        config: AppDownload
+      - name: 图片下载
+        icon: fas fa-image
+        config: ImageDownload
+      - name: 影视下载
+        icon: fas fa-film
+        config: FilmDownload
+      - name: 音乐下载
+        icon: fas fa-music
+        config: MusicDownload
+      - name: 搜索引擎
+        icon: fas fa-search
+        config: SearchEngine
   - name: 影视网站
     icon: fas fa-video
     config: VideoWeb
+  - name: 书中自有黄金屋
+    icon: fas fa-book
+    config: BookWeb
   - name: 骇客人生
     icon: fas fa-user-secret
     config: Hacker
@@ -79,17 +97,63 @@ devTools:
     img: /images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
 
-Download:
+AppDownload:
   - name: 脚本之家
     url: https://www.jb51.net/
     img: /images/favicon/jb51.jpg
-    description: 心目中最强的下载网站
+    description: 心目中最强的软件下载网站
+
+ImageDownload:
+  - name: Font Awesome
+    url: https://fontawesome.com/
+    img: https://fontawesome.com/favicon.ico
+    description: 世界上最流行的图标集
+  - name: iconfont
+    url: https://www.iconfont.cn/
+    img: https://img.alicdn.com/imgextra/i4/O1CN01Z5paLz1O0zuCC7osS_!!6000000001644-55-tps-83-82.svg
+    description: 阿里巴巴矢量图标库
+  - name: WallpaperMaiden
+    url: https://www.wallpapermaiden.com/
+    img: https://www.wallpapermaiden.com/images/favicons/favicon-96x96.png
+    description: 超高质量免费壁纸下载
+
+FilmDownload:
+  - name: MioBT
+    url: http://miobt.com/
+    img: http://miobt.com/images/favicon/miobt.ico
+    description: 国内最强追番网站（熟肉）
+  - name: 音范丝
+    url: https://www.yinfans.me/
+    img: https://www.yinfans.me/wp-content/themes/Loos2/images/favicon.ico
+    description: 精选4K蓝光原盘下载
+
+MusicDownload:
+  - name: 刘志进实验室
+    url: https://music.liuzhijin.cn/
+    img: https://music.liuzhijin.cn/favicon.ico
+    description: 啥音乐都可下载，刘志进是真的牛
+
+SearchEngine:
+  - name: 云铺子
+    url: http://www.yunpz.net/
+    img: http://static.ypz1.com/img/favicon.ico
+    description: 网盘搜索引擎 
 
 VideoWeb:
   - name: 555电影
     url: https://www.o8tv.com/
     img: /images/favicon/555movie.ico
     description: 全能在线观影网站
+
+BookWeb:
+  - name: 书栈网
+    url: https://www.bookstack.cn/
+    img: /images/favicon/bookstack.png
+    description: 开源编程指南 
+  - name: 笔趣阁
+    url: https://www.ibiquge.la/
+    img: https://www.ibiquge.la/favicon.ico
+    description: 网络小说大全
 
 Hacker:
   - name: Ιακώβ-ξυβ
