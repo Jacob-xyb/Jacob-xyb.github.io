@@ -160,6 +160,10 @@ Hacker:
     url: hacker
     img: /images/favicon/hacker.jpeg
     description: Επιδιώξτε την κορυφή της τεχνολογία.
+  - name: 编程官网
+    url: OfficialWebsite
+    img: /images/favicon/hacker.jpeg
+    description: 面向编程的相关官网
 
 AboutMe:
   - name: Jacob-xyb Github
