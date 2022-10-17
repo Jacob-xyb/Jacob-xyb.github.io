@@ -76,6 +76,10 @@ CommonPage:
     url: https://www.hao123.com/
     img: /images/CommonPage/hao123.jpeg
     description: 上网导航,网址大全,网址导航
+  - name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+    url: https://www.bilibili.com/
+    img: https://www.bilibili.com/favicon.ico?v=1
+    description: 最全资源小破站
 
 ZoomTable:
   - name: 鱼C-Web-速查宝典
@@ -163,6 +167,10 @@ Hacker:
   - name: 编程官网
     url: OfficialWebsite
     img: /images/favicon/hacker.jpeg
+    description: 面向编程的相关官网
+  - name: B站集锦
+    url: BiliBiliHighlights
+    img: https://www.bilibili.com/favicon.ico?v=1
     description: 面向编程的相关官网
 
 AboutMe:
