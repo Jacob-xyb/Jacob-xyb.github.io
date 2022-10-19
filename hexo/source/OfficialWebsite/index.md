@@ -21,7 +21,7 @@ WebFrame:
     description: Python 轻量级 Web 框架
 
 TemplateEngine:
-  - name: Jinjia
+  - name: Jinja
     url: https://jinja.palletsprojects.com/en/latest/
     img: https://jinja.palletsprojects.com/en/latest/_static/jinja-logo-sidebar.png
     description: Python 引擎，和 Flask 同作者。
