@@ -158,6 +158,10 @@ BookWeb:
     url: https://www.ibiquge.la/
     img: https://www.ibiquge.la/favicon.ico
     description: 网络小说大全
+  - name: 编程教程
+    url: Tutorial
+    img: /images/favicon/hacker.jpeg
+    description: 网页版文字教程合集
 
 Hacker:
   - name: Ιακώβ-ξυβ
@@ -171,7 +175,7 @@ Hacker:
   - name: B站集锦
     url: BiliBiliHighlights
     img: https://www.bilibili.com/favicon.ico?v=1
-    description: 面向编程的相关官网
+    description: B站视频集锦
 
 AboutMe:
   - name: Jacob-xyb Github

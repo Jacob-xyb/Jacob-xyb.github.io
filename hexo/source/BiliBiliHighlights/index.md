@@ -36,7 +36,7 @@ PythonWeb:
   - name: 2022零基础入门Flask框架
     url: https://www.bilibili.com/video/BV1aJ411H7Ej
     img: images/favicon/flask.png
-    description: 2022 6h 知了课堂 (简洁但该讲的都讲了)
+    description: 2022 6h 知了传课 (简洁但该讲的都讲了)
 
 FrontEnd:
   - name: 3小时入门 jquery
