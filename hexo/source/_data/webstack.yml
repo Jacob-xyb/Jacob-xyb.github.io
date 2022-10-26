@@ -90,6 +90,10 @@ ZoomTable:
     url: https://www.runoob.com/
     img: https://static.runoob.com/images/favicon.ico
     description: 学的不仅是技术，更是梦想
+  - name: MDN web docs
+    url: https://developer.mozilla.org/en-US/
+    img: https://developer.mozilla.org/favicon-48x48.cbbd161b.png
+    description: 面向 web 开发者文档网站
 
 devTools:
   - name: SM.MS 图床
