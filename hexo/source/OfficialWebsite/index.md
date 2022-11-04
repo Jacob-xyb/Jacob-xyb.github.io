@@ -13,6 +13,10 @@ menu:
   - name: 数据库相关
     icon: fas fa-database
     config: DataBase
+  - name: 前端开源库
+    icon: fab fa-js
+    config: FrontEndOpenSourceLibrary
+  
 
 WebFrame:
   - name: Flask
@@ -48,4 +52,9 @@ DataBase:
     img: images/favicon/open-book.png
     description: VPN better, PythonLib
 
+FrontEndOpenSourceLibrary:
+  - name: ECharts
+    url: https://echarts.apache.org
+    img: https://echarts.apache.org/zh/images/favicon.png
+    description: 一个基于 JavaScript 的开源可视化图表库
 ---
