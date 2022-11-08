@@ -106,7 +106,7 @@ devTools:
     description: 面向开源及私有软件项目的托管平台。
   - name: cdnjs
     url: https://cdnjs.com/
-    img: https://cdnjs.com/favicon.png
+    img: /images/favicon/cdnjs.png
     description: 流行的前端Web开源JS库
 
 AppDownload:
