@@ -131,8 +131,8 @@ ImageDownload:
 
 FilmDownload:
   - name: MioBT
-    url: http://miobt.com/
-    img: http://miobt.com/images/favicon/miobt.ico
+    url: https://miobt.com/
+    img: https://miobt.com/images/favicon/miobt.ico
     description: 国内最强追番网站（熟肉）
   - name: 音范丝
     url: https://www.yinfans.me/
