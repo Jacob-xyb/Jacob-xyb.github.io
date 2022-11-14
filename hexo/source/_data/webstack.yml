@@ -64,6 +64,12 @@ menu:
   - name: 书中自有黄金屋
     icon: fas fa-book
     config: BookWeb
+  - name: 头号玩家
+    icon: fas fa-gamepad
+    submenu:
+      - name: GameWiki
+        icon: fas fa-icons
+        config: GameWiki
   - name: 骇客人生
     icon: fas fa-user-secret
     config: Hacker
@@ -170,6 +176,12 @@ BookWeb:
     url: Tutorial
     img: /images/favicon/hacker.jpeg
     description: 网页版文字教程合集
+
+GameWiki:
+  - name: 神奇宝贝百科
+    url: https://wiki.52poke.com
+    img: https://wiki.52poke.com/favicon.ico
+    description: 有关宝可梦的百科全书，为了再现一个真实的宝可梦世界而努力。 
 
 Hacker:
   - name: Ιακώβ-ξυβ
