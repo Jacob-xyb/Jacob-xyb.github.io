@@ -120,6 +120,10 @@ AppDownload:
     url: https://www.jb51.net/
     img: /images/favicon/jb51.jpg
     description: 心目中最强的软件下载网站
+  - name: 福利下载
+    url: BStationWelfare
+    img: /images/favicon/福利下载.png
+    description: 一键三连再白嫖，/doge.
 
 ImageDownload:
   - name: Font Awesome
