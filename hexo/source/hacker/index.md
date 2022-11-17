@@ -28,10 +28,10 @@ GameDownload:
 SwitchGame:
   - name: PKHeX
     url: https://projectpokemon.org/home/files/file/1-pkhex/
-    img: /images/favicon/pkhex.jpeg
+    img: /images/favicon/pkhex.png
     description: Pokemon存档修改编辑器
   - name: pkhex-plugins
     url: https://github.com/architdate/pkhex-plugins
-    img: /images/favicon/pkhex.jpeg
+    img: /images/favicon/pkhex.png
     description: PKHeX插件，简化合法创建Pokemon
 ---
