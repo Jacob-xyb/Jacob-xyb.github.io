@@ -10,7 +10,9 @@ menu:
   - name: 游戏下载
     icon: fas fa-gamepad
     config: GameDownload
-
+  - name: SwitchGame
+    icon: fas fa-gamepad
+    config: SwitchGame
 GameBBS:
   - name: 游戏年轮
     url: https://www.bibgame.com/
@@ -22,4 +24,14 @@ GameDownload:
     url: jx/GameDownload/NintendoSwitch
     img: /images/favicon/ns.jpeg
     description: 熟肉
+
+SwitchGame:
+  - name: PKHeX
+    url: https://projectpokemon.org/home/files/file/1-pkhex/
+    img: /images/favicon/pkhex.jpeg
+    description: Pokemon存档修改编辑器
+  - name: pkhex-plugins
+    url: https://github.com/architdate/pkhex-plugins
+    img: /images/favicon/pkhex.jpeg
+    description: PKHeX插件，简化合法创建Pokemon
 ---
