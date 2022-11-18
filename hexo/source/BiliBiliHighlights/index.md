@@ -33,16 +33,20 @@ PythonWeb:
     img: images/favicon/Python.png
     description: 2020 老男孩 太白 (声音录的太小了)
 
-  - name: 2022零基础入门Flask框架
-    url: https://www.bilibili.com/video/BV1aJ411H7Ej
+  - name: 2023零基础入门Flask框架
+    url: https://www.bilibili.com/video/BV17r4y1y7jJ
     img: images/favicon/flask.png
-    description: 2022 6h 知了传课 (简洁但该讲的都讲了)
+    description: 2023 8h 知了传课 (简洁但该讲的都讲了)
 
 FrontEnd:
   - name: 3小时入门 jquery
     url: https://www.bilibili.com/video/BV19L4y1v7Dy
     img: images/favicon/jQuery.png
     description: 2021 念安老师 清晰简洁，快速入门
+  - name: 千锋web前端
+    url: https://www.bilibili.com/video/BV17z4y1D7Yj
+    img: images/favicon/html.png
+    description: 2020 1000集，随便冲
 
 Git:
   - name: Git入门
