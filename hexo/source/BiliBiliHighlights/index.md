@@ -47,6 +47,11 @@ FrontEnd:
     url: https://www.bilibili.com/video/BV17z4y1D7Yj
     img: images/favicon/html.png
     description: 2020 1000集，随便冲
+  - name: 千锋JavaScript
+    url: https://www.bilibili.com/video/BV15T411j7pJ
+    img: images/favicon/js.png
+    description: 2022 千锋kerwin的js课程 200集
+
 
 Git:
   - name: Git入门
