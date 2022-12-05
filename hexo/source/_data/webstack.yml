@@ -190,6 +190,10 @@ GameWiki:
     url: https://wiki.52poke.com
     img: https://wiki.52poke.com/favicon.ico
     description: 有关宝可梦的百科全书，为了再现一个真实的宝可梦世界而努力。 
+  - name: 宝可梦一决胜负
+    url: https://play.pokemonshowdown.com/
+    img: https://play.pokemonshowdown.com/favicon.ico
+    description: 去成为神奇宝贝训练大师吧！ 
 
 Hacker:
   - name: Ιακώβ-ξυβ
