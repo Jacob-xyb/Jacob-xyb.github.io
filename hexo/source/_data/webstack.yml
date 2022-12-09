@@ -104,6 +104,10 @@ ZoomTable:
     url: https://www.python.org/doc/
     img: /images/favicon/python.ico
     description: 人生苦短，我用Python
+  - name: scihub
+    url: https://www.scihub.net.cn/
+    img: https://www.scihub.net.cn/skin/black/images/favicon.ico
+    description: 科研学术网址导航
 
 devTools:
   - name: SM.MS 图床
