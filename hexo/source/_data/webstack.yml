@@ -122,6 +122,15 @@ devTools:
     url: https://cdnjs.com/
     img: /images/favicon/cdnjs.png
     description: 流行的前端Web开源JS库
+  - name: sms手机验证
+    url: https://sms-activate.org/
+    img: https://smsactivate.s3.eu-central-1.amazonaws.com/assets/img/activate_favicon.png
+    description: 手机验证，便宜好用
+  - name: ChatGPT-openAI
+    url: https://chat.openai.com/
+    img: https://chat.openai.com/apple-touch-icon.png
+    description: 目前最好的AI导师
+
 
 AppDownload:
   - name: 脚本之家
