@@ -197,6 +197,10 @@ BookWeb:
     url: Tutorial
     img: /images/favicon/hacker.jpeg
     description: 网页版文字教程合集
+  - name: 极速漫画
+    url: https://www.1kkk.com/
+    img: https://css99tel.cdndm5.com/v202208091111/blue/images/1kkk.ico
+    description: 漫画天堂
 
 GameWiki:
   - name: 神奇宝贝百科
