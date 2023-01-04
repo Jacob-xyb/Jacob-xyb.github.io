@@ -39,6 +39,10 @@ PythonWeb:
     description: 2023 8h 知了传课 (简洁但该讲的都讲了)
 
 FrontEnd:
+  - name: 浠浠呀：HTML+CSS教程
+    url: https://www.bilibili.com/video/BV1oU4y1278g
+    img: images/favicon/html.png
+    description: 2022 12H 浠浠呀老师 动画演示，没有H5和CSS3
   - name: 3小时入门 jquery
     url: https://www.bilibili.com/video/BV19L4y1v7Dy
     img: images/favicon/jQuery.png
