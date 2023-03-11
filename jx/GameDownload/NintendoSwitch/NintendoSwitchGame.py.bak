@@ -32,4 +32,3 @@ def reload_NintendoSwitchGame():
 if __name__ == '__main__':
     reload_NintendoSwitchGame()
     print(os.path.dirname(__file__))
-    print("Successfully")
